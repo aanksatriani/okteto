@@ -1,4 +1,4 @@
-FROM aank999/ssh-python:latest
+FROM aank999/ssh:v1
 EXPOSE 80
 
 COPY . /app
