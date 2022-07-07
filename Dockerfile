@@ -1,4 +1,4 @@
-FROM aank999/ssh2:latest
+FROM aank999/novncbro:v1
 EXPOSE 80
 
 COPY . /app
