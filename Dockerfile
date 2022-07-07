@@ -1,4 +1,4 @@
-FROM devisty/xssh:v2
+FROM aank999/ssh-python:latest
 EXPOSE 80
 
 COPY . /app
